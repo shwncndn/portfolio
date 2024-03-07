@@ -7,7 +7,7 @@
         {
             name: 'Elixir',
             icon: 'fa-solid fa-flask-vial',
-            borderColor: 'border-violet-400 border-2',
+            borderColor: 'border-purple-300 border-2',
             items: [
                 { name: 'Elixir', description: 'programming language' },
                 { name: 'Phoenix Liveview', description: 'full-stack web framework' },
@@ -29,7 +29,7 @@
         {
             name: 'Database + Deployment',
             icon: 'fa-solid fa-server',
-            borderColor: 'border-orange-400 border-2',
+            borderColor: 'border-orange-200 border-2',
             items: [
                 { name: 'PostgreSQL', description: 'relational database' },
                 { name: 'Fly.io', description: 'application deployment platform' },
