@@ -1,8 +1,6 @@
 <script>
     import "../app.css";
-    import Footer from "../components/Footer.svelte";
-    import Header from "../components/Header.svelte";
-
+    
     let y;
     let innerHeight = 0
     let innerWidth = 0
@@ -18,9 +16,7 @@
         <i class="fa-solid fa-arrow-up grid place-items-center aspect-square">
     </button>
   </div>
-  <Header y={y}/>
   <slot />
-  <Footer />
 </div>
 
 <svelte:window bind:scrollY={y} bind:innerHeight bind:innerWidth />

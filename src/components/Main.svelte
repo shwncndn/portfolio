@@ -1,12 +1,10 @@
 <script>
 	import Banner from './Banner.svelte';
 	import Step from './Step.svelte';
-	import Soundlift from './Soundlift.svelte';
-	import Captioncrew from './Captioncrew.svelte';
-	import Portfolio from './Portfolio.svelte';
-	import Tuner from './Tuner.svelte';
-	import Tonex from './Tonex.svelte';
-	import Premier from './Premier.svelte';
+	import Projects from './Projects.svelte';
+	import TunerEmbed from './projects/TunerEmbed.svelte';
+	import FlashcardEmbed from './projects/FlashcardsEmbed.svelte';
+	import LearnMoreButtons from './LearnMoreButtons.svelte';
 
 	let steps = [
 		{
@@ -14,56 +12,54 @@
 			icon: 'fa-solid fa-flask-vial',
 			borderColor: 'border-purple-300 border-2',
 			items: [
-				{ name: 'Elixir' },
 				{ name: 'Ecto' },
 				{ name: 'Nerves' },
 				{ name: 'Phoenix' },
-				{ name: 'Liveview' },
-				{ name: 'LiveView Native' }
+				{ name: 'LiveView' },
+				{ name: 'Livebook'},
+				{ name: 'LiveView Native'}
 			]
 		},
 		{
 			name: 'JavaScript',
 			icon: 'fa-solid fa-globe',
-			borderColor: 'border-teal-300 border-2',
+			borderColor: 'border-emerald-200 border-2',
 			items: [
-				{ name: 'Javascript' },
 				{ name: 'Node.js' },
+				{ name: 'Tone.js'},
 				{ name: 'TypeScript' },
 				{ name: 'Tailwind CSS' },
-				{ name: 'Svelte.js/SvelteKit' }
+				{ name: 'Svelte.js'},
+				{ name: 'LiveSvelte / SvelteKit' }
 			]
 		},
 		{
 			name: 'Database + Deployment',
 			icon: 'fa-solid fa-server',
-			borderColor: 'border-blue-200 border-2',
+			borderColor: 'border-blue-300 border-2',
 			items: [
-				{ name: 'Kubernetes' },
 				{ name: 'Git' },
+				{ name: 'AWS' },
+				{ name: 'CI/CD' },
 				{ name: 'Docker' },
-				{ name: 'PostgreSQL' },
-				{ name: 'Github Actions' }
+				{ name: 'Kubernetes'}, 
+				{ name: 'PostgreSQL' }
 			]
 		}
 	];
 </script>
 
 <main>
-	<div class="my-4"><Banner /></div>
+	<Banner />
 	<div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
 		{#each steps as step}
 			<Step {step} borderColor={step.borderColor} />
 		{/each}
-	</div>
-	<div class="flex flex-wrap">
-		<div class="w-1/2 p-4"><Soundlift /></div>
-		<div class="w-1/2 p-4"><Captioncrew /></div>
-		<div class="w-1/2 p-4"><Portfolio /></div>
-		<div class="w-1/2 p-4"><Tuner /></div>
-	</div>
-	<div class="flex flex-wrap">
-		<div class="w-1/2 p-4"><Tonex /></div>
-		<div class="w-1/2 p-4"><Premier /></div>
-	</div>
+	</div> 
+	<LearnMoreButtons />
+	<Projects />
+	<div class="flex flex-row justify-center">
+	<TunerEmbed />
+	<FlashcardEmbed />
+	</div>	
 </main>
