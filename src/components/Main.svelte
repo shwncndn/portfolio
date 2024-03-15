@@ -2,8 +2,6 @@
 	import Banner from './Banner.svelte';
 	import Step from './Step.svelte';
 	import Projects from './Projects.svelte';
-	import TunerEmbed from './projects/TunerEmbed.svelte';
-	import FlashcardEmbed from './projects/FlashcardsEmbed.svelte';
 	import LearnMoreButtons from './LearnMoreButtons.svelte';
 
 	let steps = [
@@ -59,7 +57,5 @@
 	<LearnMoreButtons />
 	<Projects />
 	<div class="flex flex-row justify-center">
-	<TunerEmbed />
-	<FlashcardEmbed />
 	</div>	
 </main>
