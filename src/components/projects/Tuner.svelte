@@ -20,7 +20,7 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/tuner</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-2xl mt-10">tldr; An interactive instrument tuning app that generates sine waves via Tone.js.</p>
+  <p class="text-lg sm:text-base md:text-2xl mt-10"><span class="text-amber-300">tldr;</span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-lg text-left">
