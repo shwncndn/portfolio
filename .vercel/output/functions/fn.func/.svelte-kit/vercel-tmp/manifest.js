@@ -10,7 +10,7 @@ return {
 	assets: new Set(["favicon.png","icons/Color=Gray.svg","icons/captioncrew.svg","icons/docker.svg","icons/elixir.svg","icons/git.svg","icons/github-actions.svg","icons/github.svg","icons/github_logo.svg","icons/githubsmall.svg","icons/js.svg","icons/jsblack.svg","icons/jswhite.svg","icons/kubernetes.svg","icons/linkedin.svg","icons/medium.svg","icons/node.svg","icons/phoenix.svg","icons/postgres.svg","icons/postgres_logo.svg","icons/soundlift.svg","icons/svelte.svg","icons/tailwind.svg","icons/vercel.svg"]),
 	mimeTypes: {".png":"image/png",".svg":"image/svg+xml"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.DpH7p2Sb.js","app":"_app/immutable/entry/app.C_hEFb_Y.js","imports":["_app/immutable/entry/start.DpH7p2Sb.js","_app/immutable/chunks/entry.D5oCcPPA.js","_app/immutable/chunks/scheduler.B-4f9cya.js","_app/immutable/entry/app.C_hEFb_Y.js","_app/immutable/chunks/scheduler.B-4f9cya.js","_app/immutable/chunks/index.Ds_-34h8.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
+		client: {"start":"_app/immutable/entry/start.Cj3CFG3p.js","app":"_app/immutable/entry/app.DIva6qYt.js","imports":["_app/immutable/entry/start.Cj3CFG3p.js","_app/immutable/chunks/entry.Do351ytM.js","_app/immutable/chunks/scheduler.B-4f9cya.js","_app/immutable/entry/app.DIva6qYt.js","_app/immutable/chunks/scheduler.B-4f9cya.js","_app/immutable/chunks/index.Ds_-34h8.js"],"stylesheets":[],"fonts":[],"uses_env_dynamic_public":false},
 		nodes: [
 			__memo(() => import('../output/server/nodes/0.js')),
 			__memo(() => import('../output/server/nodes/1.js')),
