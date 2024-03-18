@@ -35,7 +35,6 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-vercel": "^5.1.1",
-		"@tsparticles/slim": "^3.3.0",
-		"@tsparticles/svelte": "^3.0.0"
+		"@tsparticles/slim": "^3.3.0"
 	}
 }
