@@ -48,7 +48,7 @@
 			<path class="cls-3" d="M51,49.55a1.16,1.16,0,0,1-1.16,1.16H44a1.16,1.16,0,0,1-1.16-1.16V39c0-1.58.46-6.91-4.13-6.91-3.55,0-4.27,3.65-4.42,5.29v12.2a1.16,1.16,0,0,1-1.16,1.16H27.58a1.16,1.16,0,0,1-1.17-1.16V26.8a1.16,1.16,0,0,1,1.17-1.16h5.58a1.16,1.16,0,0,1,1.16,1.16v.42a.53.53,0,0,0,.93.36c1.31-1.37,3.23-2.32,6.52-2.32C51,25.26,51,33.89,51,38.64Z"/>
 		  </svg>
 		</a>
-		<a href="your-github-url" target="_blank" rel="noopener noreferrer">
+		<a href="https://github.com/shwncndn" target="_blank" rel="noopener noreferrer">
 		  <svg class="h-20 w-20" enable-background="new 0 0 64 64" height="64px" id="Layer_1" version="1.1" viewBox="0 0 64 64" width="64px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<g>
 			  <g>

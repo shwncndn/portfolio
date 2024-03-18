@@ -1,6 +1,8 @@
 <script>
     import Tuner from '../../../components/projects/Tuner.svelte';
+    import ProjectHeader from '../../../components/ProjectHeader.svelte';
 </script>
+
 
 <div class="content-wrapper">
 <Tuner />
@@ -13,3 +15,5 @@
       z-index: 1;
     }
   </style>
+
+
