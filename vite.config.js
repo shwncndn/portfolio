@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [sveltekit()],
   build: {
     rollupOptions: {
-      external: ['@tsparticles/svelte', '@tsparticles/slim', '@tsparticles/engine']
+      external: []
     }
   }
 });
