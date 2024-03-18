@@ -3,6 +3,7 @@
   import ProjectHeader from "../components/ProjectHeader.svelte";
   import { page } from '$app/stores';
 
+  
   export let y;
   let innerHeight = 0;
   let innerWidth = 0;
