@@ -2,7 +2,6 @@
 	import Banner from './Banner.svelte';
 	import Step from './Step.svelte';
 	import Projects from './Projects.svelte';
-	import LearnMoreButtons from './LearnMoreButtons.svelte';
 
 	let steps = [
 		{
@@ -54,8 +53,9 @@
 			<Step {step} borderColor={step.borderColor} />
 		{/each}
 	</div> 
-	<LearnMoreButtons />
+	<div class="u">
 	<Projects />
+</div>
 	<div class="flex flex-row justify-center">
 	</div>	
 </main>
