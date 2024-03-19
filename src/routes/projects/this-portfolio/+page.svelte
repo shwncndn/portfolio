@@ -1,10 +1,10 @@
 <script>
-    import ThisWebsite from '../../../components/projects/ThisWebsite.svelte';
+    import ThisPortfolio from '../../../components/projects/ThisPortfolio.svelte';
 </script>
 
 
 <div class="content-wrapper">
-<ThisWebsite />
+<ThisPortfolio />
 </div>
 
 

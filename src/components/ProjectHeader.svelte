@@ -3,7 +3,7 @@
     { name: 'Tuner', link: '/projects/tuner' },
     { name: 'SoundLift', link: '/projects/soundlift' },
     { name: 'Caption Crew', link: '/projects/caption-crew' },
-    { name: 'This Website', link: '/projects/this-website' },
+    { name: 'This Website', link: '/projects/this-portfolio' },
   ];
 </script>
 

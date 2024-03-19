@@ -10,15 +10,15 @@
 	role="button"
 	tabindex="0"
   >
-	<div class="grid place-items-center px-4 text-5xl md:text-6xl -mt-16 sm:-mt-20 md:-mt-24 mx-auto">
+	<div class="grid place-items-center px-4 text-7xl md:text-7xl -mt-16 sm:-mt-20 md:-mt-24 mx-auto">
 	  <div class="bg-slate-950 border rounded-full border-slate-950">Shawn Condon</div>
 	</div>
   
 	{#if !isHovered}
-	  <div class="text-4xl mt-6 mb-10" transition:slide={{ duration: 300 }}>
+	  <div class="text-5xl mt-6 mb-10" transition:slide={{ duration: 300 }}>
 		Software Engineer
-		<h2 class="mt-14 font-bold text-xl">Port Saint Lucie, Florida, USA</h2>
-		<h3 class="mt-14 text-lg font-bold">shwn.cndn@gmail.com</h3>
+		<h2 class="mt-14 font-bold text-2xl">Port Saint Lucie, Florida, USA</h2>
+		<h3 class="mt-14 text-xl font-bold">shwn.cndn@gmail.com</h3>
 	  </div>
 	{:else}
 	  <div class="mt-[40px]" transition:slide={{ duration: 300 }}>
@@ -27,12 +27,13 @@
 		  awer<br/>
 		  qwer<br/>
 		  werzx1<br/>
+		  werzx1<br/>
 		</p>
 	  </div>
   
 	  <div class="flex justify-between items-center space-x-12 my-6 mx-auto" transition:slide={{ duration: 300 }}>
 		<a href="your-linkedin-url" target="_blank" rel="noopener noreferrer">
-		  <svg data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" class="w-20 h-20">
+		  <svg data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" class="w-12 h-12">
 			<defs>
 			  <style>
 				.cls-1{fill:#4fbe9f;}
@@ -49,7 +50,7 @@
 		  </svg>
 		</a>
 		<a href="https://github.com/shwncndn" target="_blank" rel="noopener noreferrer">
-		  <svg class="h-20 w-20" enable-background="new 0 0 64 64" height="64px" id="Layer_1" version="1.1" viewBox="0 0 64 64" width="64px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		  <svg class="h-12 w-12" enable-background="new 0 0 64 64" height="64px" id="Layer_1" version="1.1" viewBox="0 0 64 64" width="64px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			<g>
 			  <g>
 				<path d="M31.999,1.646C14.881,1.646,1,15.579,1,32.771c0,13.749,8.881,25.415,21.204,29.53    c1.549,0.287,2.114-0.674,2.114-1.5c0-0.738-0.027-2.695-0.042-5.293c-8.625,1.883-10.444-4.172-10.444-4.172    c-1.408-3.596-3.44-4.551-3.44-4.551c-2.816-1.932,0.212-1.895,0.212-1.895c3.11,0.219,4.747,3.209,4.747,3.209    c2.768,4.756,7.258,3.381,9.024,2.584c0.279-2.01,1.082-3.383,1.967-4.16c-6.882-0.787-14.118-3.455-14.118-15.38    c0-3.397,1.207-6.176,3.19-8.354c-0.321-0.787-1.384-3.95,0.302-8.234c0,0,2.604-0.836,8.525,3.19    c2.473-0.69,5.125-1.035,7.762-1.049c2.631,0.014,5.285,0.358,7.762,1.049c5.916-4.026,8.516-3.19,8.516-3.19    c1.69,4.284,0.627,7.447,0.307,8.234c1.988,2.178,3.188,4.956,3.188,8.354c0,11.955-7.248,14.585-14.154,15.357    c1.113,0.961,2.104,2.859,2.104,5.764c0,4.162-0.037,7.516-0.037,8.537c0,0.834,0.559,1.803,2.131,1.496    C54.127,58.174,63,46.516,63,32.771C63,15.579,49.119,1.646,31.999,1.646z" fill="#3E77BF"/>
@@ -69,14 +70,14 @@
 		  </svg>
 		</a>
 		<a href="https://dev.to/shwncndn" target="_blank" rel="noopener noreferrer">
-			<svg class="h-[70px] w-auto" viewBox="0 32 447.99999999999994 448" xmlns="http://www.w3.org/2000/svg" width="2500" height="2321"><path d="M120.12 208.29c-3.88-2.9-7.77-4.35-11.65-4.35H91.03v104.47h17.45c3.88 0 7.77-1.45 11.65-4.35s5.82-7.25 5.82-13.06v-69.65c-.01-5.8-1.96-10.16-5.83-13.06zM404.1 32H43.9C19.7 32 .06 51.59 0 75.8v360.4C.06 460.41 19.7 480 43.9 480h360.2c24.21 0 43.84-19.59 43.9-43.8V75.8c-.06-24.21-19.7-43.8-43.9-43.8zM154.2 291.19c0 18.81-11.61 47.31-48.36 47.25h-46.4V172.98h47.38c35.44 0 47.36 28.46 47.37 47.28zm100.68-88.66H201.6v38.42h32.57v29.57H201.6v38.41h53.29v29.57h-62.18c-11.16.29-20.44-8.53-20.72-19.69V193.7c-.27-11.15 8.56-20.41 19.71-20.69h63.19zm103.64 115.29c-13.2 30.75-36.85 24.63-47.44 0l-38.53-144.8h32.57l29.71 113.72 29.57-113.72h32.58z" fill="#40a4c8"/></svg>
+			<svg class="h-[50px] w-auto" viewBox="0 32 447.99999999999994 448" xmlns="http://www.w3.org/2000/svg" width="2500" height="2321"><path d="M120.12 208.29c-3.88-2.9-7.77-4.35-11.65-4.35H91.03v104.47h17.45c3.88 0 7.77-1.45 11.65-4.35s5.82-7.25 5.82-13.06v-69.65c-.01-5.8-1.96-10.16-5.83-13.06zM404.1 32H43.9C19.7 32 .06 51.59 0 75.8v360.4C.06 460.41 19.7 480 43.9 480h360.2c24.21 0 43.84-19.59 43.9-43.8V75.8c-.06-24.21-19.7-43.8-43.9-43.8zM154.2 291.19c0 18.81-11.61 47.31-48.36 47.25h-46.4V172.98h47.38c35.44 0 47.36 28.46 47.37 47.28zm100.68-88.66H201.6v38.42h32.57v29.57H201.6v38.41h53.29v29.57h-62.18c-11.16.29-20.44-8.53-20.72-19.69V193.7c-.27-11.15 8.56-20.41 19.71-20.69h63.19zm103.64 115.29c-13.2 30.75-36.85 24.63-47.44 0l-38.53-144.8h32.57l29.71 113.72 29.57-113.72h32.58z" fill="#40a4c8"/></svg>
 
 		  </a>
 		<a href="your-medium-url" target="_blank" rel="noopener noreferrer">
 		  <i class="fab fa-medium text-4xl"></i>
 		</a>
 		<a href="https://bold.pro/my/shwncndn/477r" target="_blank" rel="noopener noreferrer">
-			<img src="/cv.png" alt="CV Logo" class="h-20 w-auto">
+			<img src="/cv.png" alt="CV Logo" class="h-12 w-auto">
 		  </a>
 	  </div>
 	{/if}

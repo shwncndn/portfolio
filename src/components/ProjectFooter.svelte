@@ -3,8 +3,8 @@
       { name: 'LinkedIn', link: '/projects/tuner' },
       { name: 'Github', link: '/projects/soundlift' },
       { name: 'Medium', link: '/projects/caption-crew' },
-      { name: 'Dev.to', link: '/projects/this-website' },
-      { name: 'CSV', link: '/projects/this-website' }
+      { name: 'Dev.to', link: '/projects/this-portfolio' },
+      { name: 'CV', link: '/projects/this-portfolio' }
     ];
   </script>
   
