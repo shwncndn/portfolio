@@ -21,16 +21,16 @@
 	on:mouseenter={() => (isHovered = true)}
 	on:mouseleave={() => (isHovered = false)}
   >
-	<div class="absolute top-0 left-0 right-0 grid place-items-center px-6 pt-2 text-6xl md:text-7xl mx-auto">
+	<div class="absolute top-0 left-0 right-0 grid place-items-center px-6 pt-2 text-6xl md:text-7xl mt-4 mx-auto">
 	  <i class={step.icon}></i>
 	</div>
   
-	<div class="transition-opacity duration-300 ease-in-out -mb-6 pt-4" class:opacity-0={isHovered} class:opacity-100={!isHovered}>
+	<div class="transition-opacity duration-300 ease-in-out -mb-6 pt-4 mt-8" class:opacity-0={isHovered} class:opacity-100={!isHovered}>
 	  <h3 class="text-3xl font-bold mb-2">{step.name}</h3>
 	  {#if step.name === 'Elixir'}
-		<p class="text-lg mb-4 text-purple-200">Functional and fault tolerant</p>
+		<p class="text-xl mb-4 text-purple-200">Functional and fault tolerant</p>
 	  {:else if step.name === 'JavaScript'}
-		<p class="text-lg mb-4 text-emerald-100">Ubiquitous and Web native</p>
+		<p class="text-xl mb-4 text-emerald-100">Ubiquitous and Web native</p>
 	  {:else if step.name === 'Database + Deployment'}
 		<p class="text-[17px] mb-4 text-blue-200">Version control, CI/CD, cloud and DB solutions</p>
 	  {/if}

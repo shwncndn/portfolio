@@ -9,7 +9,7 @@
   </script>
   
   <footer class='sticky z-[10] top-0 duration-200 px-6 my-10'>
-    <div class="sm:flex items-center justify-between hidden mx-auto max-w-2xl text-xxl">
+    <div class="sm:flex items-center justify-between hidden mx-auto max-w-2xl text-xl font-bold">
       {#each tabs as tab, index}
         <a href={tab.link} class="duration-200 hover:text-violet-400">
           <p>{tab.name}</p>

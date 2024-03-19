@@ -46,9 +46,9 @@
 	];
 </script>
 
-<main >
+<main class="flex flex-col min-h-screen" >
 	<Banner />
-	<div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
+	<div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10 mt-8">
 		{#each steps as step}
 			<Step {step} borderColor={step.borderColor} />
 		{/each}
@@ -56,6 +56,6 @@
 	<div class="pt-20">
 	<Projects />
 </div>
-	<div class="flex flex-row justify-center">
+	<div class="flex flex-row justify-center flex-grow">
 	</div>	
 </main>

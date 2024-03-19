@@ -3,11 +3,11 @@
 </script>
 
 <div class="flex justify-center">
-  <div class="m-4 p-4 sm:p-6 md:p-8 flex flex-col gap-4 max-w-[1350px] w-full justify-center items-center rounded-lg border border-solid border-white bg-white bg-opacity-5 text-center group duration-200">
+  <div class="m-4 p-4 sm:p-6 md:p-8 flex flex-col gap-4 max-w-[1350px] -mt-5 w-full justify-center items-center rounded-lg border border-solid border-white bg-white bg-opacity-5 text-center group duration-200">
     <div>
       <h1 class="text-7xl mt-4">Projects + Contributions</h1>
     </div>
-    <div class="flex justify-center items-center gap-12 mx-auto mt-10 mb-6 text-4xl">
+    <div class="flex justify-center items-center gap-12 mx-auto mt-10 mb-6 text-3xl">
       <a href="/projects/soundlift" class="hover:text-rose-200">Soundlift</a>
       <a href="/projects/caption-crew" class="hover:text-rose-200">Caption Crew</a>
       <a href="/projects/tuner" class="hover:text-rose-200">Tuner</a>
