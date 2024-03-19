@@ -1,10 +1,10 @@
 <script>
-    import Tuner from '../../../components/projects/Tuner.svelte';
+    import ThisWebsite from '../../../components/projects/ThisWebsite.svelte';
 </script>
 
 
 <div class="content-wrapper">
-<Tuner />
+<ThisWebsite />
 </div>
 
 
@@ -14,5 +14,4 @@
       z-index: 1;
     }
   </style>
-
 

@@ -1,5 +1,5 @@
 <script>
-    import Captioncrew from "../../../components/projects/Captioncrew.svelte";
+    import Captioncrew from "../../../components/projects/CaptionCrew.svelte";
 </script>
 
 

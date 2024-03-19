@@ -12,7 +12,7 @@
   <a href="/projects/tuner" class="hover:text-purple-400">Tuner</a>
   <a href="/projects/soundlift" class="hover:text-purple-400">Soundlift</a>
   <a href="/projects/caption-crew" class="hover:text-purple-400">Caption Crew</a>
-  <a href="/projects/tonex" class="hover:text-purple-400">Tonex</a>
+  <a href="/projects/this-website" class="hover:text-purple-400">This Website</a>
 
 
 </div>
