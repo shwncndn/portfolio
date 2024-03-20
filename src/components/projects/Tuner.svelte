@@ -20,13 +20,13 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/tuner</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-2xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tldr; </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tldr; </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
-  <div class="flex flex-col gap-4 text-lg text-left">
+  <div class="flex flex-col gap-4 text-[23px] text-lg text-left">
   <div class="mt-9">
     <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
+    <p>Each tuning peg button utilizes a Svelte on:click event modifier to </p>
     <p>blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah</p>
   </div>
   <div>
@@ -41,7 +41,7 @@
   </div>
 
     <!-- Tech Stack -->
-    <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 p-4">
+    <div class="flex flex-col border-solid border-white border-[1px] mb-[70px] rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
       <ul class="text-[22px] text-emerald-200">
         <li class="py-1">JavaScript</li>
@@ -60,6 +60,23 @@
   </div>
   <!-- Embedded app (iframe) -->
   <div class="flex justify-center rounded-lg border border-solid border-white mx-[15px] text-center bg-white bg-opacity-5">
-    <iframe src="https://tuner-m26o.vercel.app/" class="flex w-[700px] h-[390px]" title="Online Guitar Tuner"></iframe>
+    <div class="iframe-wrapper">
+      <iframe src="https://tuner-m26o.vercel.app/" class="iframe-content" title="Online Guitar Tuner"></iframe>
+    </div>
   </div>
 </tuner>
+
+<style>
+  .iframe-wrapper {
+    width: 700px;
+    height: 390px;
+    overflow: hidden;
+  }
+
+  .iframe-content {
+    width: 140%;
+    height: 140%;
+    transform: scale(0.7);
+    transform-origin: top left;
+  }
+</style>

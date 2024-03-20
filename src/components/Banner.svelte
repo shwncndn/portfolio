@@ -36,7 +36,7 @@
 			transition:slide={{ duration: 300 }}
 		>
 			<a href="your-linkedin-url" target="_blank" rel="noopener noreferrer">
-				<svg data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
+				<svg class="h-12 w-12" data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
 					><defs
 						><style>
 							.cls-1 {

@@ -4,7 +4,7 @@
 
 <tuner>
 <div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-white text-center bg-white bg-opacity-5">
-  <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">This Portfolio</h1>
+  <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">SoundLift</h1>
   <!-- Web link -->
   <div class="flex items-center justify-center mt-2 ">
     <svg class="icon icon-tabler icon-tabler-brand-vercel mr-2" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">

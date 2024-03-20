@@ -24,7 +24,7 @@
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-lg text-left">
-  <div class="mt-9">
+  <div class="mt-9 text-xl">
     <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
     <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
     <p>blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah</p>
@@ -48,7 +48,7 @@
         <li>Svelte.js</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Server Side</p>
-      <ul class="text-[22px] text-emerald-200">
+      <ul class="text-[22px] text-slate-400">
         <li class="py-1">Sveltekit (Node.js)</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
