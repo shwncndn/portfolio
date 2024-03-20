@@ -8,10 +8,10 @@
       <h1 class="text-7xl mt-4">Projects + Contributions</h1>
     </div>
     <div class="flex justify-center items-center gap-12 mx-auto mt-10 mb-6 text-3xl">
-      <a href="/projects/soundlift" class="hover:text-rose-200">Soundlift</a>
-      <a href="/projects/caption-crew" class="hover:text-rose-200">Caption Crew</a>
-      <a href="/projects/tuner" class="hover:text-rose-200">Tuner</a>
-      <a href="/projects/this-portfolio" class="hover:text-rose-200">This Portfolio</a>
+      <a href="/projects/guitar-tuner" class="hover:text-sky-400 dark:hover:text-rose-200">Guitar Tuner</a>
+      <a href="/projects/caption-crew" class="hover:text-sky-400 dark:hover:text-rose-200">Caption Crew</a>
+      <a href="/projects/soundlift" class="hover:text-sky-400 dark:hover:text-rose-200">Soundlift</a>
+      <a href="/projects/this-portfolio" class="hover:text-sky-400 dark:hover:text-rose-200">This Portfolio</a>
     </div>
   </div>
 </div>

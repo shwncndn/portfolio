@@ -4,14 +4,14 @@
 </script>
 
 <div
-	class="p-4 my-0 sm:p-6 md:p-8 mt-20 pt-12 sm:pt-14 md:pt-16 flex flex-col gap-4 rounded-lg border border-solid border-white bg-slate-700 bg-opacity-10 text-center group cursor-pointer duration-200"
+	class="p-4 my-0 sm:p-6 md:p-8 mt-20 pt-12 sm:pt-14 md:pt-16 flex flex-col gap-4 rounded-lg dark:border border-4 dark:border-solid border-slate-600 dark:border-white dark:bg-slate-700 dark:bg-opacity-10 text-center group cursor-pointer duration-200"
 	on:mouseenter={() => (isHovered = true)}
 	on:mouseleave={() => (isHovered = false)}
 	role="button"
 	tabindex="0"
 >
 	<div class="grid place-items-center px-4 text-7xl md:text-7xl -mt-16 sm:-mt-20 md:-mt-24 mx-auto">
-		<div class="bg-slate-950 border rounded-full border-slate-950">Shawn Condon</div>
+		<div class="dark:bg-slate-950 border rounded-full border-slate-950">Shawn Condon</div>
 	</div>
 
 	{#if !isHovered}
@@ -35,7 +35,7 @@
 			class="flex justify-between items-center space-x-12 my-6 mx-auto"
 			transition:slide={{ duration: 300 }}
 		>
-			<a href="your-linkedin-url" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.linkedin.com/in/shawn-condon-612074198/" target="_blank" rel="noopener noreferrer">
 				<svg class="h-12 w-12" data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
 					><defs
 						><style>

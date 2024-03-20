@@ -1,7 +1,6 @@
 <script>
   import "../app.css";
   import ProjectHeader from "../components/ProjectHeader.svelte";
-  import ProjectFooter from "../components/ProjectFooter.svelte";
   import { page } from '$app/stores';
 
   
@@ -24,9 +23,6 @@
 
   <slot />
 
-  {#if $page.url.pathname !== '/'}
-    <ProjectFooter />
-  {/if}
 </div>
 
 <svelte:window bind:scrollY={y} bind:innerHeight bind:innerWidth />

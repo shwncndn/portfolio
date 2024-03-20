@@ -28,11 +28,11 @@
 	<div class="transition-opacity duration-300 ease-in-out -mb-6 pt-4 mt-8" class:opacity-0={isHovered} class:opacity-100={!isHovered}>
 	  <h3 class="text-3xl font-bold mb-2">{step.name}</h3>
 	  {#if step.name === 'Elixir'}
-		<p class="text-xl mb-4 text-purple-200">Functional and fault tolerant</p>
+		<p class="text-xl mb-4 text-violet-700 dark:text-purple-200">Functional and fault tolerant</p>
 	  {:else if step.name === 'JavaScript'}
-		<p class="text-xl mb-4 text-emerald-100">Ubiquitous and Web native</p>
+		<p class="text-xl mb-4 text-emerald-600 dark:text-emerald-100">Ubiquitous and Web native</p>
 	  {:else if step.name === 'Database + Deployment'}
-		<p class="text-[17px] mb-4 text-blue-200">Version control, CI/CD, cloud and DB solutions</p>
+		<p class="text-[17px] mb-4 text-sky-600 dark:text-blue-200">Version control, CI/CD, cloud and DB solutions</p>
 	  {/if}
 	</div>
   

@@ -7,7 +7,7 @@
 		{
 			name: 'Elixir',
 			icon: 'fa-solid fa-flask-vial',
-			borderColor: 'border-purple-300 border-2',
+			borderColor: 'border-violet-700 dark:border-purple-300 border-[3px] dark:border-2',
 			items: [
 				{ name: 'Ecto' },
 				{ name: 'Nerves' },
@@ -20,7 +20,7 @@
 		{
 			name: 'JavaScript',
 			icon: 'fa-solid fa-globe',
-			borderColor: 'border-emerald-200 border-2',
+			borderColor: 'dark:border-emerald-200 border-emerald-500 border-[3px] dark:border-2',
 			items: [
 				{ name: 'Node.js' },
 				{ name: 'Tone.js'},
@@ -33,7 +33,7 @@
 		{
 			name: 'Database + Deployment',
 			icon: 'fa-solid fa-server',
-			borderColor: 'border-blue-300 border-2',
+			borderColor: 'dark:border-blue-300 border-blue-400 border-[3px] dark:border-2',
 			items: [
 				{ name: 'Git' },
 				{ name: 'AWS' },

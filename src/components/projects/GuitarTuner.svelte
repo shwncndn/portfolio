@@ -3,7 +3,7 @@
 </script>
 
 <tuner>
-<div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-white text-center bg-white bg-opacity-5">
+<div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border-4 border-solid border-slate-600 dark:border-white text-center  dark:bg-white dark:bg-opacity-5">
   <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">Guitar Tuner</h1>
   <!-- Web link -->
   <div class="flex items-center justify-center mt-2 ">
@@ -20,10 +20,10 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/tuner</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tldr; </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-rose-400 dark:text-amber-300 mr-2">tldr; </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
-  <div class="flex flex-col gap-4 text-[23px] text-lg text-left">
+  <div class="flex flex-col gap-4 text-[23px] text-left">
   <div class="mt-9">
     <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
     <p>Each tuning peg button utilizes a Svelte on:click event modifier to </p>
@@ -41,25 +41,25 @@
   </div>
 
     <!-- Tech Stack -->
-    <div class="flex flex-col border-solid border-white border-[1px] mb-[70px] rounded-lg w-52 p-4">
+    <div class="flex flex-col border-solid border-slate-600 dark:border-white border-2 dark:border-[1px] mb-[70px] rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
-      <ul class="text-[22px] text-emerald-200">
+      <ul class="text-[22px] text-emerald-600">
         <li class="py-1">JavaScript</li>
         <li>Svelte.js</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
-      <ul class="text-[22px] text-cyan-200">
+      <ul class="text-[22px] text-cyan-500">
         <li class="py-1">Tailwind CSS</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
-      <ul class="text-[22px] text-red-200">
+      <ul class="text-[22px] text-rose-400">
         <li>Vercel</li>
       </ul>
     </div>
   </div>
   </div>
   <!-- Embedded app (iframe) -->
-  <div class="flex justify-center rounded-lg border border-solid border-white mx-[15px] text-center bg-white bg-opacity-5">
+  <div class="flex justify-center rounded-lg border-4 dark:border-solid border-slate-600 dark:border-white mx-[15px] text-center bg-white bg-opacity-5">
     <div class="iframe-wrapper">
       <iframe src="https://tuner-m26o.vercel.app/" class="iframe-content" title="Online Guitar Tuner"></iframe>
     </div>

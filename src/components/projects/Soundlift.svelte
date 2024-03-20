@@ -4,12 +4,26 @@
 
 <tuner>
 <div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-white text-center bg-white bg-opacity-5">
-  <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">SoundLift</h1>
+  <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">SoundLift LLC</h1>
   <!-- Web link -->
-  <div class="flex items-center justify-center mt-2 ">
-    <svg class="icon icon-tabler icon-tabler-brand-vercel mr-2" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="none" stroke="none"/><path d="M3 19h18l-9 -15z"/>
-    </svg>
+  <div class="flex items-center justify-center mt-2">
+    <svg class="mr-2" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="22px" height="36px" viewBox="0 0 28 32" enable-background="new 0 0 28 32" xml:space="preserve">
+<g>
+	<path fill="#ffffff" d="M28,9.401C28,3.075,23.421,0,14,0S0,3.075,0,9.401c0,7.275,13.173,15.668,13.733,16.021
+		c0.001,0.001,0.003,0,0.005,0.001c0.011,0.007,0.023,0.007,0.035,0.013C13.845,25.474,13.921,25.5,14,25.5s0.155-0.026,0.227-0.063
+		c0.011-0.006,0.024-0.006,0.035-0.013c0.001-0.001,0.003,0,0.005-0.001C14.827,25.069,28,16.677,28,9.401z M18,9.401
+		c0,5.56-2.876,12.121-4,14.473c-1.124-2.351-4-8.909-4-14.473C10,1.871,12.283,1,14,1S18,1.871,18,9.401z M9,9.401
+		c0,4.797,1.979,10.141,3.331,13.236C9.589,19.74,5,14.181,5,9.401c0-4.69,1.918-7.327,5.977-8.132C9.653,2.717,9,5.411,9,9.401z
+		 M19,9.401c0-3.99-0.652-6.684-1.977-8.132C21.082,2.074,23,4.712,23,9.401c0,4.78-4.589,10.338-7.331,13.236
+		C17.021,19.543,19,14.198,19,9.401z M1,9.401c0-3.971,1.987-6.47,6.156-7.632C5.042,3.301,4,5.833,4,9.401
+		c0,4.203,3.135,8.792,5.838,11.973C5.98,18.306,1,13.544,1,9.401z M18.162,21.374C20.865,18.193,24,13.605,24,9.401
+		c0-3.568-1.042-6.101-3.156-7.632C25.013,2.931,27,5.43,27,9.401C27,13.544,22.02,18.306,18.162,21.374z"/>
+	<path fill="#ffffff" d="M11.5,27c-0.276,0-0.5,0.224-0.5,0.5v3c0,0.841,0.659,1.5,1.5,1.5h3c0.841,0,1.5-0.659,1.5-1.5v-3
+		c0-0.276-0.224-0.5-0.5-0.5H11.5z M16,30.5c0,0.294-0.206,0.5-0.5,0.5h-3c-0.294,0-0.5-0.206-0.5-0.5V28h4V30.5z"/>
+</g>
+</svg>
+
     <a href="https://tuner-m26o.vercel.app/" class="text-sm sm:text-base md:text-xl">https://portfolio-sable-pi-13.vercel.app/</a>
   </div>
   <!-- Github Repo -->
@@ -20,11 +34,11 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/this-portfolio</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-2xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tldr; </span> A simple web developer portfolio site built using Sveltekit .</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tldr; </span> Main site for an over-the-counter retail company.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
-  <div class="flex flex-col gap-4 text-lg text-left">
-  <div class="mt-9">
+  <div class="flex flex-col gap-4 text-[23px] text-left">
+  <div class="mt-9 ">
     <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
     <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
     <p>blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah</p>

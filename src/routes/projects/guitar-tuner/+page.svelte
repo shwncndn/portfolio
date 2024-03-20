@@ -1,10 +1,10 @@
 <script>
-    import Tuner from '../../../components/projects/Tuner.svelte';
+    import GuitarTuner from '../../../components/projects/GuitarTuner.svelte';
 </script>
 
 
 <div class="content-wrapper">
-<Tuner />
+<GuitarTuner />
 </div>
 
 
