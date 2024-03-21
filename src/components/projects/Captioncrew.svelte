@@ -56,30 +56,27 @@
     <!-- Tech Stack -->
     <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
-      <ul class="text-[22px] text-emerald-200">
+      <ul class="text-[22px] text-emerald-600">
     
         <li>JS Interop</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Server Side</p>
-      <ul class="text-[22px] text-violet-200">
+      <ul class="text-[22px] text-violet-500">
         <li class="py-1">Elixir</li>
         <li class="py-1">Phoenix/LiveView</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
-      <ul class="text-[22px] text-cyan-200">
+      <ul class="text-[22px] text-cyan-500">
         <li class="py-1">Tailwind CSS</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
-      <ul class="text-[22px] text-red-200">
+      <ul class="text-[22px] text-red-400">
         <li>Fly.io</li>
       </ul>
     </div>
   </div>
   </div>
-  <!-- Embedded app (iframe) -->
-  <div class="flex justify-center rounded-lg border border-solid border-white mx-[15px] text-center bg-white bg-opacity-5">
-    <iframe src="https://tuner-m26o.vercel.app/" class="flex w-[700px] h-[390px]" title="Caption Crew, Inc."></iframe>
-  </div>
+ 
 </tuner>
     
     
