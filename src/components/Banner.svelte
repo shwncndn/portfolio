@@ -22,13 +22,7 @@
 		</div>
 	{:else}
 		<div class="mt-[40px]" transition:slide={{ duration: 300 }}>
-			<p>
-				Hello<br />
-				awer<br />
-				qwer<br />
-				werzx1<br />
-				werzx1<br />
-			</p>
+				<ol class="text-2xl"> <li class="text-violet-300">Elixir first - but always learning.</li><li class="text-slate-300">Searching for elegant solutions. Better DX for a better UX.</li> <li class="text-emerald-200">Musician, always looking for an excuse to leverage audio in software.</li><li class="text-sky-300">Eager to write and contribute to open source projects.</li><br/><br/><li>This page is always growing.</li><br/> </ol>
 		</div>
 
 		<div

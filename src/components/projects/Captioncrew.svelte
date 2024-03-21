@@ -37,20 +37,7 @@
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-[23px] text-left">
-  <div class="mt-9">
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
-    <p>blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah</p>
-  </div>
-  <div>
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
-  </div>
-  <div>
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
-    <p>asdioasdfpoasidjfapsodijasdosdpfoigjsdpofigjsdfpogi</p>
-  </div>
+  <ol> <li>Developed a comprehensive business website for a CART captioning firm using Elixir, Phoenix, and LiveView, demonstrating proficiency in building dynamic, interactive web applications.</li><br/> <li>Implemented intuitive navigation using LiveView routing, allowing seamless transitions between different sections of the website, such as services, company about page, captioning information, and contact details.</li><br/> <li>Showcased the firm's live and remote CART captioning services, highlighting their expertise and commitment to accessibility.</li><br/> <li>Utilized Tailwind UI components as a foundation, ensuring a modern, responsive, and visually appealing design that enhances user experience and engagement.</li><br/> <li>Optimized the website's performance and loading speed, providing a smooth and efficient browsing experience for potential clients and visitors.</li><br/> </ol>
   </div>
 
     <!-- Tech Stack -->
