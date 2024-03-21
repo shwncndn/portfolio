@@ -3,7 +3,7 @@
 </script>
 
 <tuner>
-<div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-white text-center bg-white bg-opacity-5">
+<div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg dark:border border-2 border-solid dark:border-white border-slate-600 text-center bg-white bg-opacity-5">
   <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">This Portfolio</h1>
   <!-- Web link -->
   <div class="flex items-center justify-center mt-2 ">
@@ -20,30 +20,30 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg hover:text-violet-400">https://github.com/shwncndn/this-portfolio</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-200 mr-2">tl;dr </span> A simple web developer portfolio site.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] mr-2">tl;dr </span> A simple web developer portfolio site.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-2xl text-left mt-14">
-<ol><li>Built a developer portfolio using Svelte and SvelteKit, following SvelteKit's +page routing conventions for clean and intuitive organization of pages and components.</li><br/> <li>Modularized the main page by creating components for each section, enhancing code reusability and maintainability.</li><br/> <li>Implemented separate project components linked from the "Projects + Contributions" section on the home page.</li><br/> <li>Included links to individual project pages in the navigation bar, providing seamless navigation throughout the portfolio.</li><br/> <li>Deployed the portfolio to Vercel, leveraging its integration with SvelteKit, automatic deployments, custom domains, and CDN caching for optimal performance.</li><br/> <span class="text-amber-200">Working on a light mode!</span></ol> 
+<ol><li>Built using Svelte and SvelteKit, following SvelteKit's +page routing conventions for clean and intuitive organization of pages and components.</li><br/> <li>Modularized the main page by creating components for each section, enhancing code reusability and maintainability.</li><br/> <li>Implemented separate project components linked from the "Projects + Contributions" section on the home page.</li><br/> <li>Included links to individual project pages in the navigation bar, providing seamless navigation throughout the portfolio.</li><br/> <li>Deployed the portfolio to Vercel, leveraging its integration with SvelteKit, automatic deployments, custom domains, and CDN caching for optimal performance.</li><br/></ol> 
   </div>
 
     <!-- Tech Stack -->
     <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 mb-28 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
-      <ul class="text-[22px] text-emerald-200">
+      <ul class="text-[22px] text-emerald-600">
         <li class="py-1">JavaScript</li>
         <li>Svelte.js</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Server Side</p>
-      <ul class="text-[22px] text-slate-400">
+      <ul class="text-[22px] text-slate-500">
         <li class="py-1">Sveltekit (Node.js)</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
-      <ul class="text-[22px] text-cyan-200">
+      <ul class="text-[22px] text-sky-500">
         <li class="py-1">Tailwind CSS</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
-      <ul class="text-[22px] text-red-300">
+      <ul class="text-[22px] text-red-400">
         <li>Vercel</li>
       </ul>
     </div>
