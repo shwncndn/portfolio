@@ -33,7 +33,7 @@
     <a href="https://github.com/shwncndn/this-portfolio" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/caption_crew</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tldr; </span> Main site for a live captioning firm.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tl;dr </span> Main site for a live captioning firm.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-[23px] text-left">

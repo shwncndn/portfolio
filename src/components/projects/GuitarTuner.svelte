@@ -20,19 +20,20 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/tuner</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-rose-400 dark:text-amber-300 mr-2">tldr; </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-rose-400 dark:text-amber-300 mr-2">tl;dr </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-[23px] text-left">
   <div class="mt-9">
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each tuning peg button utilizes a Svelte on:click event modifier to </p>
-    <p>blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah</p>
+    <h3>Key Technologies and Libraries:</h3>
+    <ul>
+      <li>Svelte: A lightweight JavaScript UI framework for building user interfaces.</li>
+      <li>Vite: A fast build tool that provides instant server startup and lightning-fast HMR (Hot Module Replacement).</li>
+      <li>Tone.js: A powerful audio processing library that enables precise pitch detection and audio manipulation.</li>
+      <li>Tailwind CSS: A utility-first CSS framework that allows for rapid UI development and customization.</li>
+    </ul>
   </div>
-  <div>
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
-  </div>
+
   <div>
     <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
     <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
