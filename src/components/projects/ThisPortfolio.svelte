@@ -20,28 +20,15 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/this-portfolio</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tl;dr </span> A simple web developer portfolio site.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-200 mr-2">tl;dr </span> A simple web developer portfolio site.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
-  <div class="flex flex-col gap-4 text-[23px] text-left">
-  <div class="mt-9 text-xl">
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
-    <p>blah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blahblah blah blah</p>
-  </div>
-  <div>
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
-  </div>
-  <div>
-    <p>The Tone.js library allows for a more intuitive experience when leveraging the Web Audio API. </p>
-    <p>Each button utilizes a Svelte on:click event modifier to blah blah blah</p>
-    <p>asdioasdfpoasidjfapsodijasdosdpfoigjsdpofigjsdfpogi</p>
-  </div>
+  <div class="flex flex-col gap-4 text-2xl text-left mt-14">
+<ol><li>Built a developer portfolio using Svelte and SvelteKit, following SvelteKit's +page routing conventions for clean and intuitive organization of pages and components.</li><br/> <li>Modularized the main page by creating components for each section, enhancing code reusability and maintainability.</li><br/> <li>Implemented separate project components linked from the "Projects + Contributions" section on the home page.</li><br/> <li>Included links to individual project pages in the navigation bar, providing seamless navigation throughout the portfolio.</li><br/> <li>Deployed the portfolio to Vercel, leveraging its integration with SvelteKit, automatic deployments, custom domains, and CDN caching for optimal performance.</li><br/> <span class="text-amber-200">Working on a light mode!</span></ol> 
   </div>
 
     <!-- Tech Stack -->
-    <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 p-4">
+    <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 mb-28 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
       <ul class="text-[22px] text-emerald-200">
         <li class="py-1">JavaScript</li>
@@ -56,14 +43,10 @@
         <li class="py-1">Tailwind CSS</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
-      <ul class="text-[22px] text-red-200">
+      <ul class="text-[22px] text-red-300">
         <li>Vercel</li>
       </ul>
     </div>
   </div>
-  </div>
-  <!-- Embedded app (iframe) -->
-  <div class="flex justify-center rounded-lg border border-solid border-white mx-[15px] text-center bg-white bg-opacity-5">
-    <iframe src="https://portfolio-sable-pi-13.vercel.app/" class="flex w-[1350px] h-[390px]" title="Online Guitar Tuner"></iframe>
   </div>
 </tuner>

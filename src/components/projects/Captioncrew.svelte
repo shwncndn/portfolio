@@ -23,7 +23,7 @@
      c0-0.276-0.224-0.5-0.5-0.5H11.5z M16,30.5c0,0.294-0.206,0.5-0.5,0.5h-3c-0.294,0-0.5-0.206-0.5-0.5V28h4V30.5z"/>
  </g>
  </svg>
-    <a href="https://tuner-m26o.vercel.app/" class="text-sm sm:text-base md:text-xl">https://portfolio-sable-pi-13.vercel.app/</a>
+    <a href="https://tuner-m26o.vercel.app/" class="text-sm sm:text-base md:text-xl">*pending client approval*</a>
   </div>
   <!-- Github Repo -->
   <div class="flex items-center justify-center mt-1">
@@ -33,7 +33,7 @@
     <a href="https://github.com/shwncndn/this-portfolio" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/caption_crew</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tl;dr </span> Main site for a live captioning firm.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-200 mr-2">tl;dr </span> Main site for a live captioning firm.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-[23px] text-left">
@@ -56,21 +56,21 @@
     <!-- Tech Stack -->
     <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
-      <ul class="text-[22px] text-emerald-600">
+      <ul class="text-[22px] text-emerald-600 dark:text-emerald-200">
     
         <li>JS Interop</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Server Side</p>
-      <ul class="text-[22px] text-violet-500">
+      <ul class="text-[22px] text-violet-500 dark:text-violet-200">
         <li class="py-1">Elixir</li>
         <li class="py-1">Phoenix/LiveView</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
-      <ul class="text-[22px] text-cyan-500">
+      <ul class="text-[22px] text-cyan-500 dark:text-cyan-300">
         <li class="py-1">Tailwind CSS</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
-      <ul class="text-[22px] text-red-400">
+      <ul class="text-[22px] text-red-400 dark:text-red-300">
         <li>Fly.io</li>
       </ul>
     </div>

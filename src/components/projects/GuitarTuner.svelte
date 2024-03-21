@@ -20,7 +20,7 @@
     <a href="https://github.com/your-repo-link" class="text-sm sm:text-base md:text-lg">https://github.com/shwncndn/tuner</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-rose-400 dark:text-amber-300 mr-2">tl;dr </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-rose-400 dark:text-amber-200 mr-2">tl;dr </span> An interactive instrument tuning app that generates sine waves via Tone.js.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-[23px] text-left">
@@ -44,16 +44,16 @@
     <!-- Tech Stack -->
     <div class="flex flex-col border-solid border-slate-600 dark:border-white border-2 dark:border-[1px] mb-[70px] rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
-      <ul class="text-[22px] text-emerald-600">
+      <ul class="text-[22px] text-emerald-200">
         <li class="py-1">JavaScript</li>
         <li>Svelte.js</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
-      <ul class="text-[22px] text-cyan-500">
+      <ul class="text-[22px] text-cyan-300">
         <li class="py-1">Tailwind CSS</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
-      <ul class="text-[22px] text-rose-400">
+      <ul class="text-[22px] text-rose-300">
         <li>Vercel</li>
       </ul>
     </div>

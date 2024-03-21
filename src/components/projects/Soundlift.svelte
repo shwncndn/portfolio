@@ -37,7 +37,7 @@
   <p class="text-lg sm:text-base md:text-2xl mt-4"><span class="text-[28px] text-amber-300 mr-2">tl;dr </span>Main site and hearing test for an online over-the-counter hearing aid retailer </p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
-  <div class="flex flex-col gap-4 text-[23px] text-left mt-14">
+  <div class="flex flex-col gap-4 text-2xl  text-left mt-14">
     <ol>
       <li>Integrated online hearing test (see DockYard Academy capstone below) into production codebase.</li><br/>
       <li>Created dynamically rendered accordion dropdown menus in all FAQ sections.</li><br/>
@@ -50,21 +50,21 @@
     <!-- Tech Stack -->
     <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
-      <ul class="text-[22px] text-emerald-600">
+      <ul class="text-[22px] text-emerald-200">
     
         <li>JS Interop</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Server Side</p>
-      <ul class="text-[22px] text-violet-500">
+      <ul class="text-[22px] text-violet-200 dark:violet-200">
         <li class="py-1">Elixir</li>
         <li class="py-1">Phoenix/LiveView</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
-      <ul class="text-[22px] text-cyan-500">
+      <ul class="text-[22px] text-cyan-500 dark:text-cyan-300">
         <li class="py-1">Tailwind CSS</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
-      <ul class="text-[22px] text-red-400">
+      <ul class="text-[22px] text-red-400 dark:text-red-300">
         <li>Fly.io</li>
       </ul>
     </div>
