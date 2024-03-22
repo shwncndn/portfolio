@@ -28,7 +28,7 @@
   </div>
 
     <!-- Tech Stack -->
-    <div class="flex flex-col dark:border border-[1px] border-solid dark:border-white border-slate-600 rounded-lg w-52 mb-28 p-4">
+    <div class="flex flex-col dark:border border-2 border-solid dark:border-white border-slate-600 rounded-lg w-52 mb-28 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
       <ul class="text-[22px] text-emerald-600">
         <li class="py-1">JavaScript</li>

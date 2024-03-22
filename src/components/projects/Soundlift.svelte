@@ -44,18 +44,19 @@
       <li>Architected navigation logic for parent/children live views and site routing.</li><br/>
       <li>Image storage via AWS S3 and CloudFront CDN to increase page load speed.</li><br/>
       <li>Onboarded developers unfamiliar with the Elixir/Phoenix/Ecto/LiveView/Tailwind ecosystem.</li><br/>
+      <li>Hearing test ported from <a href="https://github.com/shwncndn/soundlift_audiometry" target="_blank" class="text-blue-700">DockYard Academy capstone project.</li>
     </ol>
   </div>
 
     <!-- Tech Stack -->
-    <div class="flex flex-col dark:border border-[1px] border-solid dark:border-white border-slate-600 rounded-lg w-52 p-4">
+    <div class="flex flex-col dark:border border-2 border-solid dark:border-white border-slate-600 rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
-      <ul class="text-[22px] text-emerald-200">
+      <ul class="text-[22px] text-emerald-600 dark:text-emerald-200">
     
         <li>JS Interop</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Server Side</p>
-      <ul class="text-[22px] text-violet-200 dark:violet-200">
+      <ul class="text-[22px] text-violet-500 dark:violet-200">
         <li class="py-1">Elixir</li>
         <li class="py-1">Phoenix/LiveView</li>
       </ul>
