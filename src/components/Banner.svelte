@@ -11,7 +11,7 @@
 	tabindex="0"
 >
 	<div class="grid place-items-center px-4 text-7xl md:text-7xl -mt-16 sm:-mt-20 md:-mt-24 mx-auto">
-		<div class="border-4 rounded-full dark:border-2 border-slate-600 dark:border-white dark:border-2 dark:bg-[#020617] bg-[#e1e8ef] px-8 py-2">Shawn Condon</div>
+		<div class="border-4 rounded-lg border-slate-600 dark:border-white dark:border-2 dark:bg-[#020617] bg-[#e1e8ef] px-8 py-2">Shawn Condon</div>
 	</div>
 
 	{#if !isHovered}
