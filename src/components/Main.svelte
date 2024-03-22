@@ -2,7 +2,6 @@
 	import Banner from './Banner.svelte';
 	import Step from './Step.svelte';
 	import Projects from './Projects.svelte';
-	import DarkLight from './DarkLight.svelte'
 
 	let steps = [
 		{

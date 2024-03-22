@@ -6,11 +6,11 @@
   
 	function getTextColor(itemName) {
 	  if (step.name === 'Elixir') {
-		return 'text-purple-400';
+		return 'text-purple-400 dark:text-purple-200';
 	  } else if (step.name === 'JavaScript') {
-		return 'text-emerald-500';
+		return 'text-emerald-500 dark:text-emerald-200';
 	  } else if (step.name === 'Database + Deployment') {
-		return 'text-sky-500';
+		return 'text-sky-500 dark:text-sky-200';
 	  }
 	  return '';
 	}
