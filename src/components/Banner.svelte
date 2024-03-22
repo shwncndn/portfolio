@@ -126,7 +126,7 @@
 					/></svg
 				>
 			</a>
-			<a href="your-medium-url" target="_blank" rel="noopener noreferrer">
+			<a href="https://medium.com/@shwncndn" target="_blank" rel="noopener noreferrer">
 				<i class="fab fa-medium text-4xl"></i>
 			</a>
 			<a href="https://bold.pro/my/shwncndn/477r" target="_blank" rel="noopener noreferrer">
