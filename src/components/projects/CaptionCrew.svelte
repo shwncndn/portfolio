@@ -5,7 +5,7 @@
 </script>
 
 <caption>
-<div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg border border-solid border-white text-center bg-white bg-opacity-5">
+<div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg dark:border border-2 border-solid dark:border-white border-slate-600 text-center bg-white bg-opacity-5">
   <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">Caption Crew, Inc.</h1>
   <!-- Web link -->
   <div class="flex items-center justify-center mt-2 ">
@@ -35,7 +35,7 @@
     <a href="https://github.com/shwncndn/this-portfolio" class="text-sm sm:text-base md:text-lg hover:text-violet-400">https://github.com/shwncndn/caption_crew</a>
   </div>
   <!-- tldr -->
-  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] text-amber-200 mr-2">tl;dr </span> Main site for a live captioning firm.</p>
+  <p class="text-lg sm:text-base md:text-3xl mt-4"><span class="text-[28px] dark:text-amber-100 mr-2">tl;dr </span> Main site for a live captioning firm.</p>
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-[23px] text-left">
@@ -43,7 +43,7 @@
   </div>
 
     <!-- Tech Stack -->
-    <div class="flex flex-col border-solid border-white border-[1px] rounded-lg w-52 p-4">
+    <div class="flex flex-col dark:border border-[1px] border-solid dark:border-white border-slate-600 rounded-lg w-52 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
       <ul class="text-[22px] text-emerald-600 dark:text-emerald-200">
     

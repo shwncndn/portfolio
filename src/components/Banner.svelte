@@ -11,7 +11,7 @@
 	tabindex="0"
 >
 	<div class="grid place-items-center px-4 text-7xl md:text-7xl -mt-16 sm:-mt-20 md:-mt-24 mx-auto">
-		<div class="dark:bg-slate-950 border rounded-full border-slate-950">Shawn Condon</div>
+		<div class="dark:bg-slate-950 border-4 rounded-full border-slate-950 bg-[#e1e8ef] px-8 py-2">Shawn Condon</div>
 	</div>
 
 	{#if !isHovered}
@@ -22,7 +22,7 @@
 		</div>
 	{:else}
 		<div class="mt-[40px]" transition:slide={{ duration: 300 }}>
-				<ol class="text-2xl"> <li class="text-violet-300">Elixir first - but always learning.</li><li class="text-sky-300">Searching for elegant solutions. Better DX for a better UX.</li> <li class="text-slate-300">Musician, always looking for an excuse to leverage audio in software.</li><li class="text-emerald-200">Eager to write and contribute to open source projects.</li><br/><br/><li>This page is always growing.</li><br/> </ol>
+				<ol class="text-2xl"> <li class="dark:text-violet-300">Elixir first - but always learning.</li><li class="dark:text-sky-300">Searching for elegant solutions. Better DX for a better UX.</li> <li class="dark:text-slate-300">Musician, always looking for an excuse to leverage audio in software.</li><li class="dark:text-emerald-200">Eager to write and contribute to open source projects.</li><br/><br/><li>This page is always growing.</li><br/> </ol>
 		</div>
 
 		<div
