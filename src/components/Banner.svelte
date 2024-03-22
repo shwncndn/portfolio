@@ -22,7 +22,7 @@
 		</div>
 	{:else}
 		<div class="mt-[40px]" transition:slide={{ duration: 300 }}>
-				<ol class="text-2xl"> <li class="dark:text-violet-300">Elixir first - but always learning.</li><li class="dark:text-sky-300">Searching for elegant solutions. A better DX for a better UX.</li> <li class="dark:text-slate-300"> Looking for any excuse to leverage audio in software.</li><li class="dark:text-emerald-200">Eager to write and contribute to open source projects.</li><br/><br/><li>This page is growing.</li><br/> </ol>
+				<ol class="text-2xl"> <li class="dark:text-violet-300">Elixir first - but always learning.</li><li class="dark:text-sky-300">Searching for elegant solutions. A better DX for a better UX.</li> <li class="dark:text-rose-100"> Looking for any excuse to leverage audio in software.</li><li class="dark:text-emerald-200">Eager to write and contribute to open source projects.</li><br/><br/><li>This page is growing.</li><br/> </ol>
 		</div>
 
 		<div
@@ -30,7 +30,7 @@
 			transition:slide={{ duration: 300 }}
 		>
 			<a href="https://www.linkedin.com/in/shawn-condon-612074198/" target="_blank" rel="noopener noreferrer">
-				<svg class="h-12 w-12" data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
+				<svg class="h-14 w-14" data-name="Layer 1" id="Layer_1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"
 					><defs
 						><style>
 							.cls-1 {
