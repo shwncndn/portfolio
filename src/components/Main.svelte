@@ -2,6 +2,7 @@
 	import Banner from './Banner.svelte';
 	import Step from './Step.svelte';
 	import Projects from './Projects.svelte';
+	import DarkLight from './DarkLight.svelte'
 
 	let steps = [
 		{
@@ -47,6 +48,7 @@
 </script>
 
 <main class="flex flex-col min-h-screen" >
+
 	<Banner />
 	<div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10 mt-8">
 		{#each steps as step}
@@ -56,6 +58,4 @@
 	<div class="pt-20">
 	<Projects />
 </div>
-	<div class="flex flex-row justify-center flex-grow">
-	</div>	
 </main>

@@ -1,4 +1,8 @@
-# TODO: Fix navbar opacity on scroll
+# TODO: 
+
+Fix navbar opacity on scroll
+
+Fix UI on light/dark mode toggle
 
 # create-svelte
 

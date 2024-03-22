@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex justify-center">
-  <div class="m-4 p-4 sm:p-6 md:p-8 flex flex-col gap-4 max-w-[1350px] -mt-5 w-full justify-center items-center rounded-lg dark:border border-2 border-solid dark:border-white border-slate-600 bg-opacity-5 text-center group duration-200">
+  <div class="m-4 p-4 sm:p-6 md:p-8 flex flex-col gap-4 max-w-[1350px] -mt-5 w-full justify-center items-center rounded-lg dark:border border-4 border-solid dark:border-white border-slate-600 bg-opacity-5 text-center group duration-200">
     <div>
       <h1 class="text-7xl mt-4">Projects + Contributions</h1>
     </div>
