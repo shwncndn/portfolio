@@ -30,7 +30,7 @@
 	  {#if step.name === 'Elixir'}
 		<p class="text-xl mb-4 text-violet-700 dark:text-purple-200">Functional and fault tolerant</p>
 	  {:else if step.name === 'JavaScript'}
-		<p class="text-xl mb-4 text-emerald-600 dark:text-emerald-100">Ubiquitous and Web native</p>
+		<p class="text-xl mb-4 text-emerald-600 dark:text-emerald-100">Ubiquitous and Web-native</p>
 	  {:else if step.name === 'Database + Deployment'}
 		<p class="text-[17px] mb-4 text-sky-600 dark:text-blue-200">Version control, CI/CD, cloud and DB solutions</p>
 	  {/if}
