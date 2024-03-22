@@ -32,7 +32,7 @@
 	  {:else if step.name === 'JavaScript'}
 		<p class="text-xl mb-4 text-emerald-600 dark:text-emerald-100">Ubiquitous and Web-native</p>
 	  {:else if step.name === 'Database + Deployment'}
-		<p class="text-[17px] mb-4 text-sky-600 dark:text-blue-200">Version control, CI/CD, Cloud and DB solutions</p>
+		<p class="text-[17px] mb-4 text-sky-600 dark:text-blue-200">Version Control, CI/CD, Cloud and DB solutions</p>
 	  {/if}
 	</div>
   
