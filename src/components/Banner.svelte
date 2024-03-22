@@ -22,7 +22,7 @@
 		</div>
 	{:else}
 		<div class="mt-[40px]" transition:slide={{ duration: 300 }}>
-				<ol class="text-2xl"> <li class="dark:text-violet-300">Elixir first - but always learning.</li><li class="dark:text-sky-300">Searching for elegant solutions. Better DX for a better UX.</li> <li class="dark:text-slate-300">Musician, always looking for an excuse to leverage audio in software.</li><li class="dark:text-emerald-200">Eager to write and contribute to open source projects.</li><br/><br/><li>This page is always growing.</li><br/> </ol>
+				<ol class="text-2xl"> <li class="dark:text-violet-300">Elixir first - but always learning.</li><li class="dark:text-sky-300">Searching for elegant solutions. A better DX for a better UX.</li> <li class="dark:text-slate-300">Musician, always looking for an excuse to leverage audio in software.</li><li class="dark:text-emerald-200">Eager to write and contribute to open source projects.</li><br/><br/><li>This page is always growing.</li><br/> </ol>
 		</div>
 
 		<div
