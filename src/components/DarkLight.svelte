@@ -12,8 +12,8 @@
     on:click={toggleDarkMode}
   >
     {#if isDarkMode}
-      DARK MODE
-    {:else}
       LIGHT MODE
+    {:else}
+      DARK MODE
     {/if}
   </button>
