@@ -25,7 +25,7 @@
      c0-0.276-0.224-0.5-0.5-0.5H11.5z M16,30.5c0,0.294-0.206,0.5-0.5,0.5h-3c-0.294,0-0.5-0.206-0.5-0.5V28h4V30.5z"/>
  </g>
  </svg>
-    <a href="https://tuner-m26o.vercel.app/" class="text-sm sm:text-base md:text-xl">*pending client approval*</a>
+    <a href="https://tuner-m26o.vercel.app/" class="text-sm sm:text-base md:text-xl">*pending approval*</a>
   </div>
   <!-- Github Repo -->
   <div class="flex items-center justify-center mt-1">
@@ -39,7 +39,7 @@
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-[23px] text-left">
-  <ol> <li>Developed a comprehensive business website for a CART captioning firm using Elixir, Phoenix, and LiveView, demonstrating proficiency in building dynamic, interactive web applications.</li><br/> <li>Implemented intuitive navigation using LiveView routing, allowing seamless transitions between different sections of the website, such as services, company about page, captioning information, and contact details.</li><br/> <li>Showcased the firm's live and remote CART captioning services, highlighting their expertise and commitment to accessibility.</li><br/> <li>Utilized Tailwind UI components as a foundation, ensuring a modern, responsive, and visually appealing design that enhances user experience and engagement.</li><br/> <li>Optimized the website's performance and loading speed, providing a smooth and efficient browsing experience for potential clients and visitors.</li><br/> </ol>
+  <ol> <li>Developed a comprehensive business website for a CART captioning firm using Elixir, Phoenix, and LiveView, demonstrating proficiency in building dynamic, interactive web applications.</li><br/> <li>Implemented intuitive navigation using LiveView routing, allowing seamless transitions between different sections of the website, such as services, company about page, captioning information, and contact details.</li><br/> <li>Showcased the firm's live and remote CART captioning services, highlighting their expertise and commitment to accessibility.</li><br/> <li>Utilized Tailwind UI components as a foundation, ensuring a modern, responsive, and visually appealing design that enhances user experience and engagement.</li><br/> <li>Optimized the website's performance and loading speed, providing a smooth and efficient browsing experience for potential clients and visitors.</li><br/><li>This is a firm that I currently work with as a captioner! I'll be completing the project when our firm owner decides to move forward with the change from the current site.</li> </ol>
   </div>
 
     <!-- Tech Stack -->
