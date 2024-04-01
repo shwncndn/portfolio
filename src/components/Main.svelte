@@ -24,7 +24,6 @@
 			items: [
 				{ name: 'Node.js' },
 				{ name: 'Tone.js'},
-				{ name: 'TypeScript' },
 				{ name: 'Tailwind CSS' },
 				{ name: 'Svelte.js'},
 				{ name: 'LiveSvelte / SvelteKit' }
@@ -39,7 +38,6 @@
 				{ name: 'AWS' },
 				{ name: 'CI/CD' },
 				{ name: 'Docker' },
-				{ name: 'Kubernetes'}, 
 				{ name: 'PostgreSQL' }
 			]
 		}
