@@ -10,7 +10,6 @@
 			borderColor: 'border-violet-700 dark:border-purple-300 border-[3px] dark:border-2',
 			items: [
 				{ name: 'Ecto' },
-				{ name: 'Nerves' },
 				{ name: 'Phoenix' },
 				{ name: 'LiveView' },
 				{ name: 'Livebook'},
