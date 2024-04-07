@@ -37,6 +37,7 @@
 				{ name: 'AWS' },
 				{ name: 'CI/CD' },
 				{ name: 'Docker' },
+				{ name: 'SQLite'},
 				{ name: 'PostgreSQL' }
 			]
 		}
