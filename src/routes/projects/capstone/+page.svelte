@@ -1,9 +1,9 @@
 
 
 <script>
-    import HearingTest from "../../../components/projects/HearingTest.svelte";
+    import Capstone from "../../../components/projects/Capstone.svelte";
   </script>
   
   
-  <HearingTest />
+  <Capstone />
   

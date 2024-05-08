@@ -13,19 +13,19 @@
   <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
   <!-- Details -->
   <div class="flex flex-col gap-4 text-2xl text-left mt-14">
-<ol><li>Built using Svelte and SvelteKit, following SvelteKit's +page routing conventions for clean and intuitive organization of pages and components.</li><br/> <li>Modularized the main page by creating components for each section, enhancing code reusability and maintainability.</li><br/> <li>Implemented separate project components linked from the "Projects + Contributions" section on the home page.</li><br/> <li>Included links to individual project pages in the navigation bar, providing seamless navigation throughout the portfolio.</li><br/> <li>Deployed the portfolio to Vercel, leveraging its integration with SvelteKit, automatic deployments, custom domains, and CDN caching for optimal performance.</li><br/>Light mode inspired by the <a href="https://static1.squarespace.com/static/54a5d748e4b034981b4a71c8/t/597be01bf9a61e963d9406eb/1501290524142/Radical2_TR.pdf" target="_blank" class="text-rose-600 dark:text-amber-200">Alexander Radical II Delay Pedal</a></ol> 
+<ol><ol></ol><br/> <li> Online audiometry exam built using Phoenix Liveview and JS interop with Tone.js.</li><br/><li>Requirements: PubSub, Ecto, external API/library/service interaction, authentication and authorization.</li><br/><li>Ecto/Postgres database layer, used Phoenix PubSub architecture to update a counter displaying number of times the test has been taken in real time.</li><br/><li>Integer value corresponding to volume for each step of test is accumulated and scored for test results against range of measured potential hearing loss.</li><ol></ol><br/>
   </div>
 
     <!-- Tech Stack -->
     <div class="flex flex-col dark:border border-2 border-solid dark:border-white border-slate-600 rounded-lg w-52 mb-28 p-4">
       <p class="text-3xl mt-4 mb-1">Client Side</p>
       <ul class="text-[22px] text-emerald-600">
-        <li class="py-1">JavaScript</li>
-        <li>Svelte.js</li>
+        <li class="py-1">JS Interop</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Server Side</p>
       <ul class="text-[22px] text-slate-500">
-        <li class="py-1">Sveltekit (Node.js)</li>
+        <li class="py-1">Elixir</li>
+        <li>Phoenix/Liveview</li>
       </ul>
       <p class="text-3xl mt-4 mb-1">Styling</p>
       <ul class="text-[22px] text-sky-500">
@@ -33,7 +33,7 @@
       </ul>
       <p class="text-3xl mt-4 mb-1">Deployment</p>
       <ul class="text-[22px] text-red-400">
-        <li>Vercel</li>
+        <li>None</li>
       </ul>
     </div>
   </div>
