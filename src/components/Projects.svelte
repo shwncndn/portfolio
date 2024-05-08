@@ -12,6 +12,8 @@
       <a href="/projects/caption-crew" class="hover:text-sky-400 dark:hover:text-sky-200">Caption Crew</a>
       <a href="/projects/soundlift" class="hover:text-sky-400 dark:hover:text-sky-200">SoundLift</a>
       <a href="/projects/this-portfolio" class="hover:text-sky-400 dark:hover:text-sky-200">This Portfolio</a>
+      <a href="/projects/dock-yard-blog" class="hover:text-sky-400 dark:hover:text-sky-200">Blog</a>
+      <a href="/projects/capstone" class="hover:text-sky-400 dark:hover:text-sky-200">Capstone</a>
     </div>
   </div>
 </div>

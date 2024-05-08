@@ -2,7 +2,7 @@
 
 </script>
 
-<tuner>
+<soundlift>
 <div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg dark:border border-2 border-solid dark:border-white border-slate-600 text-center bg-white bg-opacity-5">
   <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">SoundLift LLC</h1>
   <!-- Web link -->
@@ -72,6 +72,6 @@
   </div>
   </div>
   
-</tuner>
+</soundlift>
     
     
