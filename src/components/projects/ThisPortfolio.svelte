@@ -10,7 +10,7 @@
     <svg class="icon icon-tabler icon-tabler-brand-vercel mr-2" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
       <path d="M0 0h24v24H0z" fill="none" stroke="none"/><path d="M3 19h18l-9 -15z"/>
     </svg>
-    <a href="https://tuner-m26o.vercel.app/" class="text-sm sm:text-base md:text-xl hover:text-violet-400">https://portfolio-sable-pi-13.vercel.app/</a>
+    <a href="https://portfolio-sable-pi-13.vercel.app/" class="text-sm sm:text-base md:text-xl hover:text-violet-400">https://portfolio-sable-pi-13.vercel.app/</a>
   </div>
   <!-- Github Repo -->
   <div class="flex items-center justify-center mt-1">

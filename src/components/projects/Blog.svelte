@@ -1,6 +1,6 @@
 <blog>
     <div class="m-4 p-4 mt-10 sm:p-6 md:p-8 flex flex-col gap-4 rounded-lg dark:border border-2 border-solid dark:border-white border-slate-600 text-center bg-white bg-opacity-5">
-        <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">SoundLift LLC</h1>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl mb-">Blog</h1>
         <!-- Web link -->
         <div class="flex items-center justify-center mt-2 ">
           <svg class="mr-2" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -30,15 +30,15 @@
           <a href="https://github.com/SantaAna/blog" class="text-sm sm:text-base md:text-lg hover:text-violet-400">https://github.com/SantaAna/blog</a>
         </div>
         <!-- tldr -->
-        <p class="text-lg sm:text-base md:text-2xl mt-4"><span class="text-[28px] dark:text-amber-100 mr-2 hover:text-violet-400">tl;dr </span>Final Phoenix group project before introduction of Liveview in DockYard Academy</p>
+        <p class="text-lg sm:text-base md:text-2xl mt-4"><span class="text-[28px] dark:text-amber-100 mr-2 hover:text-violet-400">tl;dr </span>Final Phoenix group project before introduction of Liveview in DockYard Academy. </p>
         <div class="flex flex-row justify-center gap-52 mt-10 mb-4">
         <!-- Details -->
         <div class="flex flex-col gap-4 text-2xl  text-left mt-14">
           <ol>
-            <li>Required features: Posts w/ cover image, Users, Tags, Comments, Authentication and Authorization</li><br/>
-            <li>Used Phoenix generators to generate majority of boilplate</li><br/>
-            <li>Ecto database layer</li><br/>
-            <li>All UI rendered via Phoenix controllers and view templates</li><br/>
+            <li>Required features: Posts w/ cover image, Users, Tags, Comments, Authentication and Authorization.</li><br/>
+            <li>Used Phoenix generators to generate majority of boilplate.</li><br/>
+            <li>Ecto/Postgres database layer.</li><br/>
+            <li>All UI rendered via Phoenix controllers and view templates.</li><br/>
           </ol>
         </div>
       
