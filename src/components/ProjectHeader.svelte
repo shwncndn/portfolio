@@ -4,7 +4,7 @@
     { name: 'Caption Crew', link: '/projects/caption-crew' },
     { name: 'SoundLift', link: '/projects/soundlift' },
     { name: 'This Portfolio', link: '/projects/this-portfolio' },
-    { name: 'DYA Blog', link: '/projects/dock-yard-blog' },
+    { name: 'DYA Blog', link: '/projects/blog' },
     { name: 'Home', link: '/'}
   ];
 </script>
