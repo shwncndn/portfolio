@@ -6,6 +6,7 @@
     { name: 'This Portfolio', link: '/projects/this-portfolio' },
     { name: 'Blog', link: '/projects/blog' },
     { name: 'Capstone', link: '/projects/capstone' },
+    { name: 'Bookshelf', link: '/projects/bookshelf' },
     { name: 'Home', link: '/'}
   ];
 </script>

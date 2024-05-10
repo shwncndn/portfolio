@@ -14,6 +14,7 @@
       <a href="/projects/this-portfolio" class="hover:text-sky-400 dark:hover:text-sky-200">This Portfolio</a>
       <a href="/projects/blog" class="hover:text-sky-400 dark:hover:text-sky-200">Blog</a>
       <a href="/projects/capstone" class="hover:text-sky-400 dark:hover:text-sky-200">Capstone</a>
+      <a href="/projects/bookshelf" class="hover:text-sky-400 dark:hover:text-sky-200">Bookshelf</a>
     </div>
   </div>
 </div>
